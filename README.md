@@ -10,3 +10,6 @@ If you have PowerShellGet, you can install it with:
 
 Else, you would have to download the zip from this repository and manually unpack it to one of the module paths on your system.
 
+## How to use it
+
+See my [blog post](https://communary.net/2016/04/30/inline-progress-bar-in-powershell/) to see examples of how to use it.
